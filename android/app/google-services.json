@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "472044517025",
+    "firebase_url": "https://hith-9c15e.firebaseio.com",
+    "project_id": "hith-9c15e",
+    "storage_bucket": "hith-9c15e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472044517025:android:e74f92cec11050e7dea2e0",
+        "android_client_info": {
+          "package_name": "com.hithere.flutterhithere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472044517025-hut0vvqsqhcpnual70cl741grc1fn3ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZIB5rxcI4v4NFxe4cxeOg4DgMIe8rlc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472044517025-hut0vvqsqhcpnual70cl741grc1fn3ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
